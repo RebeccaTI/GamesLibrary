@@ -1,0 +1,11 @@
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\bin\Debug\netstandard2.0\Games.Library.Application.deps.json
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\bin\Debug\netstandard2.0\Games.Library.Application.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\obj\Debug\netstandard2.0\Games.Library.Application.csprojAssemblyReference.cache
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\obj\Debug\netstandard2.0\Games.Library.Application.AssemblyInfoInputs.cache
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\obj\Debug\netstandard2.0\Games.Library.Application.AssemblyInfo.cs
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\bin\Debug\netstandard2.0\Games.Library.Application.pdb
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\obj\Debug\netstandard2.0\Games.Library.Application.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\obj\Debug\netstandard2.0\Games.Library.Application.pdb
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\bin\Debug\netstandard2.0\Games.Library.Domain.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\bin\Debug\netstandard2.0\Games.Library.Domain.pdb
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Application\obj\Debug\netstandard2.0\Games.Library.Application.csproj.CopyComplete

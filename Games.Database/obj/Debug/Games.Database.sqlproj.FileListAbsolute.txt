@@ -1,0 +1,10 @@
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\bin\Debug\Games.Database.dacpac
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\bin\Debug\Games.Database.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\bin\Debug\Games.Database.pdb
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\obj\Debug\Games.Database.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\obj\Debug\Games.Database.pdb
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\obj\Debug\Model.xml
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\obj\Debug\refactor.xml
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\obj\Debug\postdeploy.sql
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\obj\Debug\predeploy.sql
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Database\obj\Debug\Games.Database.sqlprojAssemblyReference.cache

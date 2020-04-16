@@ -1,0 +1,11 @@
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\bin\Debug\netstandard2.0\Games.Library.Domain.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\obj\Debug\netstandard2.0\Games.Library.Infra.SQL.csprojAssemblyReference.cache
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\obj\Debug\netstandard2.0\Games.Library.Infra.SQL.AssemblyInfoInputs.cache
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\obj\Debug\netstandard2.0\Games.Library.Infra.SQL.AssemblyInfo.cs
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\bin\Debug\netstandard2.0\Games.Library.Infra.SQL.deps.json
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\bin\Debug\netstandard2.0\Games.Library.Infra.SQL.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\bin\Debug\netstandard2.0\Games.Library.Infra.SQL.pdb
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\bin\Debug\netstandard2.0\Games.Library.Domain.pdb
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\obj\Debug\netstandard2.0\Games.Library.Infra.SQL.csproj.CopyComplete
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\obj\Debug\netstandard2.0\Games.Library.Infra.SQL.dll
+C:\Users\RebeccadeMouraCoelho\source\repos\GamesLibrary\Games.Library.Infra.SQL\obj\Debug\netstandard2.0\Games.Library.Infra.SQL.pdb

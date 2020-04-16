@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.3.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Games.Library.Application\Games.Library.Application.csproj" />
+    <ProjectReference Include="..\Games.Library.Domain\Games.Library.Domain.csproj" />
+    <ProjectReference Include="..\Games.Library.Infra.SQL\Games.Library.Infra.SQL.csproj" />
+  </ItemGroup>
+
+
+</Project>
